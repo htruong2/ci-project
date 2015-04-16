@@ -1,7 +1,8 @@
 language: java
+
 jdk:
- - oraclejdk8
+	- oraclejdk8
 notifications: 
- email:
-  - gmuswe15@gmail.com
-  - htruong@gmu.com
+	email:
+		- gmuswe15@gmail.com
+		- htruong@gmu.com
